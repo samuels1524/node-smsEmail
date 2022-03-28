@@ -1,2 +1,2 @@
-# node_mysql
-Basic API Node, express &amp; Mysql
+# node_smsEmail
+Basic API Node, express &amp; SMS and Email
